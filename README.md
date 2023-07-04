@@ -1,1 +1,1 @@
-My first readme
+This repository contains all the files for the project, alx-zero_day. There's a folder named, 0x03-git, and inside that folder, contains several files, namely, c and bash, as well as another README.md.
